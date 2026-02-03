@@ -1,4 +1,6 @@
-```bash
+<div style="background-color:#000000; padding:20px; border-radius:8px; font-family: 'Courier New', monospace; color:#00ff00;">
+
+<pre>
 bharat@github:~$ whoami
 Bharat Agnibashya
 
@@ -15,15 +17,15 @@ bharat@github:~$ responsibilities
 - Design scalable backend architectures
 - Build high-performance Node.js APIs
 - Manage MySQL databases & query optimization
-- Handle Linux server-side programming & deployments
-- Design system architecture & infrastructure
+- Linux server-side programming & deployments
+- System architecture & infrastructure design
 - Lead and mentor development teams
-- Conduct code reviews & enforce best practices
+- Code reviews & best practices enforcement
 
 bharat@github:~$ current_focus
-- Advanced backend system design
+- Backend system design at scale
 - Python for Data Analytics
-- AI-driven & data-informed systems
+- AI-driven, data-informed systems
 
 bharat@github:~$ ls projects/
 blogging_api/
@@ -35,11 +37,14 @@ bharat@github:~$ location
 India
 
 bharat@github:~$ contact
-LinkedIn : https://linkedin.com
-GitHub   : https://github.com/bharat210695
+GitHub   : github.com/bharat210695
+LinkedIn : linkedin.com
 Email    : your@email.com
 
 bharat@github:~$ echo "Building reliable systems, not just applications."
 Building reliable systems, not just applications.
 
 bharat@github:~$ █
+</pre>
+
+</div>
