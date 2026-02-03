@@ -15,8 +15,6 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
 - **System architecture**, performance & reliability
 - **Team leadership**, mentoring & code reviews  
 
-Currently expanding into **Python, Data Analytics & AI-driven systems** to build more data-informed backend solutions.
-
 ---
 
 ## 🧠 My Tech Stack
