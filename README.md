@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
-<h3 align="center">Full-Stack Developer | Python & Data Analytics Learner</h3>
+<h3 align="center">Lead Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Python+%26+Data+Analytics+Learner;Future+AI+Engineer;Building+Scalable+Applications" />
@@ -12,10 +12,12 @@
 ---
 
 ## 🚀 About Me
-- 💻 Full-Stack Developer with **3+ years of experience**
-- 📊 Transitioning into **Python, Data Analytics & AI**
-- 🤖 Interested in **Machine Learning & Data-Driven Systems**
-- ⚡ Strong in backend, databases & scalable architecture
+- 💻 Lead Full-Stack / Backend Developer with **4+ years of experience**
+- 🧱 Specialized in **Node.js backend systems, MySQL databases & Linux servers**
+- 🧠 Experienced in **system design, scalable architecture & performance optimization**
+- 👥 Lead and mentor development teams, manage code quality & delivery
+- 📊 Expanding expertise into **Python, Data Analytics & AI-driven systems**
+
 
 ---
 
@@ -33,19 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bharat210695&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bharat210695&theme=radical" />
-</p>
-
-## 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bharat210695&layout=compact&theme=radical" />
-</p>
 
 
 
