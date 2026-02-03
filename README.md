@@ -37,6 +37,26 @@ I’m a **Lead Backend / Full-Stack Developer** with **4+ years of experience**,
       <b>MySQL</b><br><br>
       <img height="64" src="https://cdn.svgporn.com/logos/mysql.svg">
     </td>
+    <td align="center">
+      <b>MongoDB</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/mongodb.svg">
+    </td>
+     <td align="center">
+      <b>GitoDB</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/git.svg">
+    </td>
+    <td align="center">
+      <b>Docker</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/docker.svg">
+    </td>
+    <td align="center">
+      <b>Linux</b><br><br>
+      <img height="64" src="https://www.svgrepo.com/svg/452054/linux">
+    </td>
+    <td align="center">
+      <b>Nginx</b><br><br>
+      <img height="64" src="https://cdn.svgporn.com/logos/nginx.svg">
+    </td>
   </tr>
 </table>
 
